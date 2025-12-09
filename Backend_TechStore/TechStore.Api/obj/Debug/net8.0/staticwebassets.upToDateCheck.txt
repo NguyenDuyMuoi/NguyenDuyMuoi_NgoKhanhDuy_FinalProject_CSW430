@@ -1,0 +1,39 @@
+wwwroot\images\products\Acer_Predator.png
+wwwroot\images\products\airpods1.png
+wwwroot\images\products\airpods2.png
+wwwroot\images\products\airpods3.png
+wwwroot\images\products\Asus_ROG_Azoth White.png
+wwwroot\images\products\CASE_ASUS.png
+wwwroot\images\products\CASE_Jonsbo1.png
+wwwroot\images\products\Dell_G15.png
+wwwroot\images\products\Fan_ASUS.png
+wwwroot\images\products\Fan_ASUS2.png
+wwwroot\images\products\hp_laptop1.png
+wwwroot\images\products\hp_laptop2.png
+wwwroot\images\products\hp_laptop3.png
+wwwroot\images\products\hp_mouse1.png
+wwwroot\images\products\hp_mouse2.png
+wwwroot\images\products\hp_mouse3.png
+wwwroot\images\products\hp_screen1.png
+wwwroot\images\products\hp_screen2.png
+wwwroot\images\products\hp_screen3.png
+wwwroot\images\products\imac1.png
+wwwroot\images\products\imac2.png
+wwwroot\images\products\Lenovo_Legion_Pro_7.png
+wwwroot\images\products\Logitech_G102.png
+wwwroot\images\products\Logitech_G715.png
+wwwroot\images\products\Logitech_G733.png
+wwwroot\images\products\Logitech_Lift Vertical.png
+wwwroot\images\products\macbook1.png
+wwwroot\images\products\macbook2.png
+wwwroot\images\products\macbook3.png
+wwwroot\images\products\Power GIGABYTE(1).png
+wwwroot\images\products\Power GIGABYTE(2).png
+wwwroot\images\products\power LI_Lian(1).png
+wwwroot\images\products\power LI_Lian(2).png
+wwwroot\images\products\Power_Asus1.png
+wwwroot\images\products\Power_Asus2.png
+wwwroot\images\products\Screen_Asus_ROG.png
+wwwroot\images\products\Screen_Dell.png
+wwwroot\images\products\Screen_LG.png
+wwwroot\images\products\Screen_LG2.png
